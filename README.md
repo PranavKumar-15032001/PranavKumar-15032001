@@ -24,6 +24,6 @@
 
 ## 📊 GitHub Stats
 
-[![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavKumar-15032001&show_icons=true&theme=radical)](https://github.com/PranavKumar-15032001)
+[![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavKumar-15032001&show_icons=true&include_all_commits=true&theme=radical&count_private=true)](https://github.com/PranavKumar-15032001)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavKumar-15032001&langs_count=8&theme=radical)](https://github.com/PranavKumar-15032001)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavKumar-15032001&langs_count=6&hide=PureBasic&theme=radical&include_all_commits=true&count_private=true)](https://github.com/PranavKumar-15032001)
